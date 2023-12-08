@@ -1699,8 +1699,6 @@ MonoBehaviour:
   spawner: {fileID: 537393555}
   monsterCount: 0a0000000f00000014000000190000001e000000
   coinCount: 0
-  wavesOver: 0
-  GAME_OVER: Game Over
   hardMode: 0
 --- !u!1 &486858954
 GameObject:
@@ -4897,7 +4895,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1714631339}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 17.82, y: -2.58, z: 0}
+  m_LocalPosition: {x: 13.55, y: -2.58, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

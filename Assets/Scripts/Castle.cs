@@ -10,7 +10,7 @@ public class Castle : MonoBehaviour
 
     private string HALF_HEALTH = "Health below 50";
 
-    private string GAME_OVER = "Game Over";
+    private string GAME_OVER_LOSE = "Game Over_Lose";
 
     Animator anim;
 
@@ -26,7 +26,7 @@ public class Castle : MonoBehaviour
         health -= amount;
         if (health <= 0)
         {
-            SceneManager.LoadScene(GAME_OVER);
+            SceneManager.LoadScene(GAME_OVER_LOSE);
         }
 
         if(health/2 <= 0.5)
