@@ -1,0 +1,1058 @@
+fileFormatVersion: 2
+guid: 4ec20eb778655ce43b6c51e0e16cccee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: faries_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 816
+        width: 152
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dfb0a8201951e40b66f25230d5c649
+      internalID: -74160687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_2
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 816
+        width: 149
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3ef545f1165b6458cedd7e26cdbedd
+      internalID: 1166303762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_3
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 816
+        width: 158
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af2569ed2682f742925e96a5f1d1abd
+      internalID: -933241712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_4
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 816
+        width: 159
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c0a3a65b3fd2040847bb7fd741207c
+      internalID: -617955368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_5
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 816
+        width: 152
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd26e2adec2dbba4fb8eb70002973ea3
+      internalID: 1361899694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_6
+      rect:
+        serializedVersion: 2
+        x: 3827
+        y: 816
+        width: 161
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c79a73a5a18994285b15d0acce35ea
+      internalID: -1653070841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_7
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 816
+        width: 158
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b48841fd609274c9f7690525d6dfd3
+      internalID: 1499849356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_8
+      rect:
+        serializedVersion: 2
+        x: 5242
+        y: 816
+        width: 157
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76167fb03a2a1e44aad809c6a6ab15fe
+      internalID: 1184520704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_9
+      rect:
+        serializedVersion: 2
+        x: 5951
+        y: 816
+        width: 156
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6433c7c2ac4565418b50fb684c4c041
+      internalID: 460717701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_11
+      rect:
+        serializedVersion: 2
+        x: 6657
+        y: 816
+        width: 155
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5cdf90f5c78d44d906f14be423295c
+      internalID: 666825056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1-0
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 945
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf178b6d7e473347be5305260fbb0ed
+      internalID: -1283730666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 438
+        width: 154
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd56a7a1afd5a34cbed0f4f87bcb706
+      internalID: -58144567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_26
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 438
+        width: 154
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b694a95084558954697f61984784980a
+      internalID: -1565230211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_27
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 438
+        width: 149
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9474c4b860f047a58fd744d79383b
+      internalID: -175727304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_28
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 438
+        width: 152
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8657a4f9b4292e345983371f7aadce6a
+      internalID: 1551762221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_29
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 438
+        width: 154
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c101f8369660846b13bfd9d3b16619
+      internalID: -1952079053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_30
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 438
+        width: 158
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166686fecbb07164f980531f4f17c0b6
+      internalID: -844022418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_31
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 438
+        width: 144
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5191884f3ef3da6448819371e3d39e78
+      internalID: -384059448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_32
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 438
+        width: 142
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d482110c76e6fdb4c913be987a856f92
+      internalID: -1979748219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_33
+      rect:
+        serializedVersion: 2
+        x: 5958
+        y: 438
+        width: 142
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391d8a465c1342c4ea38401438963710
+      internalID: -1049918121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_34
+      rect:
+        serializedVersion: 2
+        x: 6664
+        y: 438
+        width: 141
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d4acb3f4607504187e69b3086d1934
+      internalID: -1254323316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 2-0
+      rect:
+        serializedVersion: 2
+        x: 4707
+        y: 553
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d0c3ec881a074db9e02da1fb5a40a
+      internalID: -1836796901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_47
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 516
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cc8dafe2a7e024d9c3340a8f9f57da
+      internalID: -668337948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_49
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 64
+        width: 169
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1cf0e549fd3d24694b82933c46f69a
+      internalID: 1304069009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_50
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 64
+        width: 157
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8c92ae18c08c240886bc2c2308099b
+      internalID: 514129841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_51
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 64
+        width: 159
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a4bae9eec73884987c015f2c6a1f38
+      internalID: -52638026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_52
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 64
+        width: 163
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ad0a0bf8a4abe478772780cbc072b8
+      internalID: 622853824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_53
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 64
+        width: 158
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2064f282852447843b7c6c111b84160f
+      internalID: -2131905564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_54
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 64
+        width: 176
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547a8691e52d0734b8eea55aef8d35fa
+      internalID: -491484410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_55
+      rect:
+        serializedVersion: 2
+        x: 4526
+        y: 64
+        width: 176
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa623e1ffe74ce4bb47c5fdc33c16a9
+      internalID: 676488194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_56
+      rect:
+        serializedVersion: 2
+        x: 5235
+        y: 64
+        width: 173
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ac1f02e2c523409875521fc5afa52
+      internalID: 745185735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_57
+      rect:
+        serializedVersion: 2
+        x: 5941
+        y: 64
+        width: 173
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49bb954b3826b443a868719ef7c91d6
+      internalID: 1691488048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_58
+      rect:
+        serializedVersion: 2
+        x: 6650
+        y: 64
+        width: 173
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a1c1517ba850348997c36f8d65a8a7
+      internalID: -1751878410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 3-0
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 175
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da78e56c7afe94f9ace135efbff6f6
+      internalID: 763886543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faries_76
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 134
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e5e7bb43e98c24195bb54ee856f60a
+      internalID: -1665404331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack final 1-1
+      rect:
+        serializedVersion: 2
+        x: 6922
+        y: 901
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470500a46d714b1478535d2216609cf0
+      internalID: 1162014280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack final 2-1
+      rect:
+        serializedVersion: 2
+        x: 6915
+        y: 520
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1507bb97613d6d14e822b4c2b78b205c
+      internalID: -82694922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack final 3-1
+      rect:
+        serializedVersion: 2
+        x: 6920
+        y: 143
+        width: 135
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7127a4b2998128499aa458a49090c7f
+      internalID: -1258031289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      attack 1-0: -1283730666
+      attack 2-0: -1836796901
+      attack 3-0: 763886543
+      attack final 1-1: 1162014280
+      attack final 2-1: -82694922
+      attack final 3-1: -1258031289
+      faries_0: -232930518
+      faries_1: -74160687
+      faries_10: 991198142
+      faries_11: 666825056
+      faries_12: 706595575
+      faries_13: 117015598
+      faries_14: 1629944626
+      faries_16: -811849440
+      faries_17: 1197509754
+      faries_18: 1000927079
+      faries_19: -1290238799
+      faries_2: 1166303762
+      faries_20: -1859424165
+      faries_21: 1371743604
+      faries_22: 1525273137
+      faries_23: -409455888
+      faries_24: 1187738084
+      faries_25: -58144567
+      faries_26: -1565230211
+      faries_27: -175727304
+      faries_28: 1551762221
+      faries_29: -1952079053
+      faries_3: -933241712
+      faries_30: -844022418
+      faries_31: -384059448
+      faries_32: -1979748219
+      faries_33: -1049918121
+      faries_34: -1254323316
+      faries_35: -81457011
+      faries_36: -56034545
+      faries_37: -232739445
+      faries_38: -1983678478
+      faries_39: 112388854
+      faries_4: -617955368
+      faries_41: 838120884
+      faries_42: -2128170038
+      faries_43: -448779975
+      faries_44: -803666957
+      faries_45: -1852135567
+      faries_46: -1166563285
+      faries_47: -668337948
+      faries_48: 842751954
+      faries_49: 1304069009
+      faries_5: 1361899694
+      faries_50: 514129841
+      faries_51: -52638026
+      faries_52: 622853824
+      faries_53: -2131905564
+      faries_54: -491484410
+      faries_55: 676488194
+      faries_56: 745185735
+      faries_57: 1691488048
+      faries_58: -1751878410
+      faries_59: 1043654016
+      faries_6: -1653070841
+      faries_60: -1616872805
+      faries_61: 1424935378
+      faries_62: 431082803
+      faries_63: 2059911398
+      faries_65: 294288275
+      faries_66: 1007847151
+      faries_67: -1906636501
+      faries_68: 47038130
+      faries_69: 904004101
+      faries_7: 1499849356
+      faries_70: 1318343383
+      faries_71: 1882305639
+      faries_72: -1599171011
+      faries_73: -1849356840
+      faries_74: 455914504
+      faries_75: -1749235963
+      faries_76: -1665404331
+      faries_77: 1019097488
+      faries_8: 1184520704
+      faries_9: 460717701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
